@@ -1,4 +1,5 @@
 ### Hi there 👋
+- I'm a Computer Science and Industrial Engineer currently studing at the Pontificia Universidad Catolica de Chile
 
 <!--
 **juanjouriarte/juanjouriarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
